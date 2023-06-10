@@ -1,2 +1,0 @@
-# GCPLocale
-GCPLocale
