@@ -27,7 +27,7 @@ msgid "12h"
 msgstr "12 horas"
 
 msgid "📦 Download data"
-msgstr "📦 Download data"
+msgstr "📦 Descargar datos"
 
 msgid "🚨 Alerts"
 msgstr "🚨 Alerts"
