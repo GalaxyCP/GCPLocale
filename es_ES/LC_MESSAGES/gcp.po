@@ -18,13 +18,13 @@ msgid "1h"
 msgstr "1h"
 
 msgid "3h"
-msgstr "3h"
+msgstr "3 h"
 
 msgid "6h"
-msgstr "6h"
+msgstr "6 h"
 
 msgid "12h"
-msgstr "12h"
+msgstr "12 horas"
 
 msgid "📦 Download data"
 msgstr "📦 Download data"
