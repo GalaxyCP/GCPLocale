@@ -5,8 +5,7 @@ on:
   # Triggers the workflow on push or pull request events but only for the "Development" branch
   push:
     branches: [ "development" ]
-  pull_request:
-    branches: [ "development" ]
+
 
 jobs:
   Run-msgfmt-po-to-mo:
