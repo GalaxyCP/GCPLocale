@@ -15,4 +15,4 @@ jobs:
         uses: actions/checkout@v3
       
       - name: Run msgfmt                     # Checkout the latest code
-        uses: GalaxyCP//msgfmt-action@master
+        uses: GalaxyCP/msgfmt-action@master
