@@ -1,0 +1,19 @@
+name: Compile .mo from .po
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "Development" branch
+  push:
+    branches: [ "development" ]
+  pull_request:
+    branches: [ "development" ]
+
+jobs:
+  Run-msgfmt-po-to-mo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 🚚 Get latest code                     # Checkout the latest code
+        uses: actions/checkout@v3
+      
+      - name: Run msgfmt                     # Checkout the latest code
+        uses: GalaxyCP//msgfmt-action@master
