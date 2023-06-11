@@ -2,5 +2,5 @@ targets:
   - name: GCP
     sources:
       - /development/LC_MESSAGES/*.po
-    file: /%locale_with_underscore%/LC_MESSAGES/gcp.po
+    file: /%locale%/LC_MESSAGES/gcp.po
     format: po-export
