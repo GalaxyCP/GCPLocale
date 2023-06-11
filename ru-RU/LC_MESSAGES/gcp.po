@@ -12,215 +12,215 @@ msgstr ""
 "X-Generator: Crowdin\\n"
 
 msgid "30m"
-msgstr "30m"
+msgstr "30м"
 
 msgid "1h"
-msgstr "1h"
+msgstr "1ч"
 
 msgid "3h"
-msgstr "3h"
+msgstr "3ч"
 
 msgid "6h"
-msgstr "6h"
+msgstr "6ч"
 
 msgid "12h"
-msgstr "12h"
+msgstr "12ч"
 
 msgid "📦 Download data"
-msgstr "📦 Download data"
+msgstr "📦 Скачать данные"
 
 msgid "🚨 Alerts"
-msgstr "🚨 Alerts"
+msgstr "🚨 Предупреждения"
 
 msgid "1d"
-msgstr "1d"
+msgstr "1д"
 
 msgid "2d"
-msgstr "2d"
+msgstr "2д"
 
 msgid "7d"
-msgstr "7d"
+msgstr "7д"
 
 msgid "14d"
-msgstr "14d"
+msgstr "14д"
 
 msgid "30d"
-msgstr "30d"
+msgstr "30д"
 
 msgid "60d"
-msgstr "60d"
+msgstr "60д"
 
 msgid "90d"
-msgstr "90d"
+msgstr "90д"
 
 msgid "🖥️ Monitoring"
-msgstr "🖥️ Monitoring"
+msgstr "🖥️ Мониторинг"
 
 msgid "🎛️ Management"
-msgstr "🎛️ Management"
+msgstr "🎛️ Управление"
 
 msgid "🧰 Tools"
-msgstr "🧰 Tools"
+msgstr "🧰 Инструменты"
 
 msgid "🌌 App Store"
 msgstr "🌌 App Store"
 
 msgid "⚙️ Settings"
-msgstr "⚙️ Settings"
+msgstr "⚙️ Настройки"
 
 msgid "🎛️ CPU"
-msgstr "🎛️ CPU"
+msgstr "🎛️ ЦП"
 
 msgid "🎚️ RAM"
-msgstr "🎚️ RAM"
+msgstr "🎚️ ОЗУ"
 
 msgid "💾 HDD"
-msgstr "💾 HDD"
+msgstr "💾 Жесткий диск"
 
 msgid "💽 Disk i/o"
-msgstr "💽 Disk i/o"
+msgstr "💽 Диск i/o"
 
 msgid "📡 Network"
-msgstr "📡 Network"
+msgstr "📡 Сеть"
 
 msgid "📑 Processes"
-msgstr "📑 Processes"
+msgstr "📑 Процессы"
 
 msgid "📖 Open files"
-msgstr "📖 Open files"
+msgstr "📖 Открытые файлов"
 
 msgid "🗂️ Services"
-msgstr "🗂️ Services"
+msgstr "🗂️ Службы"
 
 msgid "⏱️ Uptime"
-msgstr "⏱️ Uptime"
+msgstr "⏱️ Время работы"
 
 msgid "🏡 Home"
-msgstr "🏡 Home"
+msgstr "🏡 Главная"
 
 msgid "Can't get data"
-msgstr "Can't get data"
+msgstr "Невозможно получить данные"
 
 msgid "Memory Status"
-msgstr "Memory Status"
+msgstr "Состояние памяти"
 
 msgid "RAM"
-msgstr "RAM"
+msgstr "ОЗУ"
 
 msgid "SWAP"
-msgstr "SWAP"
+msgstr "Файл подкачки"
 
 msgid "Min"
-msgstr "Min"
+msgstr "Мин"
 
 msgid "Avg"
-msgstr "Avg"
+msgstr "Средн"
 
 msgid "Max"
-msgstr "Max"
+msgstr "Макс"
 
 msgid "Last"
-msgstr "Last"
+msgstr "Последний"
 
 msgid "RAM Usage"
-msgstr "RAM Usage"
+msgstr "Использование ОЗУ"
 
 msgid "Date & Time"
-msgstr "Date & Time"
+msgstr "Дата и время"
 
 msgid "Quantity"
-msgstr "Quantity"
+msgstr "Количество"
 
 msgid "Processes status"
-msgstr "Processes status"
+msgstr "Статусы процессов"
 
 msgid "Total number of running processes"
-msgstr "Total number of running processes"
+msgstr "Общее количество запущенных процессов"
 
 msgid "Min:"
-msgstr "Min:"
+msgstr "Мин:"
 
 msgid "Avg:"
-msgstr "Avg:"
+msgstr "Средн:"
 
 msgid "Max:"
-msgstr "Max:"
+msgstr "Макс:"
 
 msgid "Last:"
-msgstr "Last:"
+msgstr "Последний:"
 
 msgid "Processes"
-msgstr "Processes"
+msgstr "Процессы"
 
 msgid "Open files status"
-msgstr "Open files status"
+msgstr "Статус открытых файлов"
 
 msgid "All open files"
-msgstr "All open files"
+msgstr "Все открытые файлы"
 
 msgid "Allocated file descriptors"
-msgstr "Allocated file descriptors"
+msgstr "Выделенные файловые дескрипторы"
 
 msgid "All open directories"
-msgstr "All open directories"
+msgstr "Все открытые каталоги"
 
 msgid "All open files."
-msgstr "All open files."
+msgstr "Все открытые файлы."
 
 msgid "Allocated file descriptors."
-msgstr "Allocated file descriptors."
+msgstr "Выделенные файловые дескрипторы."
 
 msgid "All open directories."
-msgstr "All open directories."
+msgstr "Все открытые каталоги."
 
 msgid "Open files graph"
-msgstr "Open files graph"
+msgstr "График открытых файлов"
 
 msgid "mins"
-msgstr "mins"
+msgstr "мин"
 
 msgid "Time on system"
-msgstr "Time on system"
+msgstr "Время в системе"
 
 msgid "System uptime"
-msgstr "System uptime"
+msgstr "Время работы системы"
 
 msgid "Logged in users"
-msgstr "Logged in users"
+msgstr "Вошедшие в систему пользователи"
 
 msgid "CPU load averages"
-msgstr "CPU load averages"
+msgstr "Средняя нагрузка ЦП"
 
 msgid "Can't get uptime data"
-msgstr "Can't get uptime data"
+msgstr "Не удается получить данные времени работы"
 
 msgid "Services status"
-msgstr "Services status"
+msgstr "Статус служб"
 
 msgid "Running"
-msgstr "Running"
+msgstr "Работающие"
 
 msgid "Failed"
-msgstr "Failed"
+msgstr "Неудачно"
 
 msgid "Exited"
-msgstr "Exited"
+msgstr "Выход"
 
 msgid "Can't get Services data"
-msgstr "Can't get Services data"
+msgstr "Не удается получить данные сервисов"
 
 msgid "Hello!"
-msgstr "Hello!"
+msgstr "Привет!"
 
 msgid "Thank you for choosing Galaxy Control Panel."
-msgstr "Thank you for choosing Galaxy Control Panel."
+msgstr "Благодарим вас за выбор Galaxy Control Panel."
 
 msgid "The new language is "
-msgstr "The new language is "
+msgstr "Новый язык "
 
 msgid "Set language error!"
-msgstr "Set language error!"
+msgstr "Ошибка при установке языка!"
 
 msgid "GalaxyCP has been restarted"
-msgstr "GalaxyCP has been restarted"
+msgstr "GalaxyCP была перезапущена"
 
