@@ -87,7 +87,7 @@ msgid "📑 Processes"
 msgstr "📑 Processes"
 
 msgid "📖 Open files"
-msgstr "📖 Open files"
+msgstr "📖 Abrir archivos"
 
 msgid "🗂️ Services"
 msgstr "🗂️ Services"
@@ -96,7 +96,7 @@ msgid "⏱️ Uptime"
 msgstr "⏱️ Uptime"
 
 msgid "🏡 Home"
-msgstr "🏡 Home"
+msgstr "🏡 Inicio"
 
 msgid "Can't get data"
 msgstr "Can't get data"
