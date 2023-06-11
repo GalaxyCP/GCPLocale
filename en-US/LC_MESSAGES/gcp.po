@@ -141,7 +141,7 @@ msgid "Min:"
 msgstr "Min:"
 
 msgid "Avg:"
-msgstr "Min:"
+msgstr "Avg:"
 
 msgid "Max:"
 msgstr "Max:"
@@ -153,7 +153,7 @@ msgid "Processes"
 msgstr "Processes"
 
 msgid "Open files status"
-msgstr "Processes"
+msgstr "Open files status"
 
 msgid "All open files"
 msgstr "All open files"
