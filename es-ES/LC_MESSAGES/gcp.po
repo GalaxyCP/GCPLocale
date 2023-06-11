@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GalaxyCP\\n"
+"POT-Creation-Date: 2023-05-04 13:58-0000\\n"
+"PO-Revision-Date: 2023-05-04 13:58-0000\\n"
+"Last-Translator: \\n"
+"Language-Team: none\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\\n"
+"X-Generator: Crowdin\\n"
+
+msgid "30m"
+msgstr "30m"
+
+msgid "1h"
+msgstr "1h"
+
+msgid "3h"
+msgstr "3h"
+
+msgid "6h"
+msgstr "6h"
+
+msgid "12h"
+msgstr "12h"
+
+msgid "📦 Download data"
+msgstr "📦 Descargar datos"
+
+msgid "🚨 Alerts"
+msgstr "🚨 Alertas"
+
+msgid "1d"
+msgstr "1d"
+
+msgid "2d"
+msgstr "2d"
+
+msgid "7d"
+msgstr "7d"
+
+msgid "14d"
+msgstr "14d"
+
+msgid "30d"
+msgstr "30d"
+
+msgid "60d"
+msgstr "60d"
+
+msgid "90d"
+msgstr "90d"
+
+msgid "🖥️ Monitoring"
+msgstr "🖥️ Monitoreo"
+
+msgid "🎛️ Management"
+msgstr "🎛️ Gestión"
+
+msgid "🧰 Tools"
+msgstr "🧰 Herramientas"
+
+msgid "🌌 App Store"
+msgstr "🌌 App Store"
+
+msgid "⚙️ Settings"
+msgstr "⚙️ Configuración"
+
+msgid "🎛️ CPU"
+msgstr "🎛️ CPU"
+
+msgid "🎚️ RAM"
+msgstr "🎚️ RAM"
+
+msgid "💾 HDD"
+msgstr "💾 HDD"
+
+msgid "💽 Disk i/o"
+msgstr "💽 E/S de disco"
+
+msgid "📡 Network"
+msgstr "📡 Red"
+
+msgid "📑 Processes"
+msgstr "📑 Procesos"
+
+msgid "📖 Open files"
+msgstr "📖 Abrir archivos"
+
+msgid "🗂️ Services"
+msgstr "🗂️ Servicios"
+
+msgid "⏱️ Uptime"
+msgstr "⏱️ Tiempo de actividad"
+
+msgid "🏡 Home"
+msgstr "🏡 Inicio"
+
+msgid "Can't get data"
+msgstr "No se pueden obtener los datos"
+
+msgid "Memory Status"
+msgstr "Estado de la Memoria"
+
+msgid "RAM"
+msgstr "RAM"
+
+msgid "SWAP"
+msgstr "SWAP"
+
+msgid "Min"
+msgstr "Mín"
+
+msgid "Avg"
+msgstr "Prom"
+
+msgid "Max"
+msgstr "Máx"
+
+msgid "Last"
+msgstr "Último"
+
+msgid "RAM Usage"
+msgstr "Uso de RAM"
+
+msgid "Date & Time"
+msgstr "Fecha y hora"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Processes status"
+msgstr "Estado de los procesos"
+
+msgid "Total number of running processes"
+msgstr "Número total de procesos en ejecución"
+
+msgid "Min:"
+msgstr "Mín:"
+
+msgid "Avg:"
+msgstr "Prom:"
+
+msgid "Max:"
+msgstr "Máx:"
+
+msgid "Last:"
+msgstr "Último:"
+
+msgid "Processes"
+msgstr "Procesos"
+
+msgid "Open files status"
+msgstr "Estado de los archivos abiertos"
+
+msgid "All open files"
+msgstr "Todos los archivos abiertos"
+
+msgid "Allocated file descriptors"
+msgstr "Descriptores de archivos asignados"
+
+msgid "All open directories"
+msgstr "Todos los directorios abiertos"
+
+msgid "All open files."
+msgstr "Todos los archivos abiertos."
+
+msgid "Allocated file descriptors."
+msgstr "Descriptores de archivos asignados."
+
+msgid "All open directories."
+msgstr "Todos los directorios abiertos."
+
+msgid "Open files graph"
+msgstr "Gráfico de archivos abiertos"
+
+msgid "mins"
+msgstr "mins"
+
+msgid "Time on system"
+msgstr "Tiempo en el sistema"
+
+msgid "System uptime"
+msgstr "Tiempo de actividad del sistema"
+
+msgid "Logged in users"
+msgstr "Usuarios conectados"
+
+msgid "CPU load averages"
+msgstr "Promedios de carga de la CPU"
+
+msgid "Can't get uptime data"
+msgstr "No se pueden obtener los datos de tiempo de actividad"
+
+msgid "Services status"
+msgstr "Estado de los servicios"
+
+msgid "Running"
+msgstr "En curso"
+
+msgid "Failed"
+msgstr "Fallido"
+
+msgid "Exited"
+msgstr "Salidas"
+
+msgid "Can't get Services data"
+msgstr "No se pueden obtener los datos de los servicios"
+
+msgid "Hello!"
+msgstr "¡Hola!"
+
+msgid "Thank you for choosing Galaxy Control Panel."
+msgstr "Gracias por elegir el Panel de Control Galaxy."
+
+msgid "The new language is "
+msgstr "El nuevo idioma es "
+
+msgid "Set language error!"
+msgstr "¡Error al establecer el idioma!"
+
+msgid "GalaxyCP has been restarted"
+msgstr "GalaxyCP se ha reiniciado"
+
