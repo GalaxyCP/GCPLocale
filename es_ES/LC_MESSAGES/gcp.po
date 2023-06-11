@@ -30,7 +30,7 @@ msgid "📦 Download data"
 msgstr "📦 Descargar datos"
 
 msgid "🚨 Alerts"
-msgstr "🚨 Alerts"
+msgstr "🚨 Alertas"
 
 msgid "1d"
 msgstr "1 día"
